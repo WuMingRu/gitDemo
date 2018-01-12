@@ -7,3 +7,7 @@ git push origin master
 完成第二个功能
 创建二个新的分支two
 nextMaster写了一句话
+master
+master
+master
+master
