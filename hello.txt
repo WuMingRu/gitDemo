@@ -6,3 +6,4 @@ git push origin master
 完成第一个功能
 完成第二个功能
 创建二个新的分支two
+master写了一句话
