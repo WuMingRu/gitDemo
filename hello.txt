@@ -3,3 +3,4 @@ hello2
 hello3
 git push origin master
 创建一个新的分支one
+完成第一个功能
